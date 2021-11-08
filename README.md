@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hey! I'm Om. 
+
+I'm a first-year student at the University of Waterloo and I work as a Frontend Developer @ CodeGem, a team management platform for engineering teams. I started coding several years ago with a simple "Hello world!" webpage, and have since accumulated 18 months of work experience (and counting!), completed a bunch of online courses on topics such as Python, data science, and React, and built several side projects. 
+
+Have a look at my [personal website](https://omgandhi.com/) to learn more about me. 
 
 <!--
 **omgandhi/omgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
