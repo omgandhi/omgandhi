@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Om. 
 
-I'm a first-year student at the University of Waterloo and I work as a Frontend Developer @ Seeko, a platfrom that helps creators monetize their content through affiliate marketing. I started coding several years ago with a simple "Hello world!" webpage, and have since accumulated ~2 years of work experience, completed a bunch of online courses on topics such as Python, data science, and React, and built several side projects. 
+I'm a first-year student at the University of Waterloo and I work as a Frontend Developer @ Seeko, a platform that helps creators monetize their content through affiliate marketing. I started coding several years ago with a simple "Hello world!" webpage, and have since accumulated ~2 years of work experience, completed a bunch of online courses on topics such as Python, data science, and React, and built several side projects. 
 
 Have a look at my [personal website](https://omgandhi.com/) to learn more about me. 
 
